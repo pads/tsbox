@@ -44,6 +44,11 @@ If all goes well, access:
 
 	http://tiddlyspace.org:8000
 
+Alternative Provisioners
+========================
+
+* Puppet: See puppet/README.md
+
 To do
 =====
 
