@@ -1,7 +1,7 @@
 tsbox
 =====
 
-tsbox is a a Vagrant configuration to provision a virtual machine with [TiddlySpace](http://tiddlyspace.com/) on.
+tsbox is a Vagrant configuration to provision a virtual machine with [TiddlySpace](http://tiddlyspace.com/).
 
 Requires
 ========
