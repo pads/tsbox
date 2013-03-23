@@ -17,7 +17,7 @@ This configuration supports Debian-based installations and has been tested again
 
 Clone this repository, enter the directory and run:
 
-	vagrant box add <box_url> tsbox
+	vagrant box add tsbox <box_url>
 
 Replace <box_url> with a suitable virtual machine e.g. http://puppet-vagrant-boxes.puppetlabs.com/debian-606-x64.box
 
