@@ -36,13 +36,13 @@ For further help around vagrant run:
 Web Access
 ==========
 
-The server is setup to run under the DNS name of tiddlyspace.org and there is port-forwarding applied to port 80 so if you have a running web server you must stop this.
+The server is setup to run under the DNS name of tiddlyspace.org and ports 8000 and 8081 are forwarded to the host.
 
 To enable subdomains to work so that you can access spaces, install and configure dnsmasq.
 
 If all goes well, access:
 
-	http://tiddlyspace.org
+	http://tiddlyspace.org:8000
 
 To do
 =====

@@ -5,6 +5,6 @@ config = {
         'server_host': {
             'scheme': 'http', # or https
             'host': 'tiddlyspace.org',
-            'port': '80'
+            'port': '8000'
         }
     }

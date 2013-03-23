@@ -47,6 +47,11 @@ chown tiddlyweb.tiddlyweb apache.py
 su - tiddlyweb -c "twanager update"
 
 #
+# Tell apache to listen on port 8000
+#
+cp /vagrant/ports.conf /etc/apache2
+
+#
 # Configure a virtual host for apache
 #
 echo "ServerName tsbox.com" >> /etc/apache2/apache2.conf
